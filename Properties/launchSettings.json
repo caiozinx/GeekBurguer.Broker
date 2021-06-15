@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GeekBurguer.Broker": {
+      "commandName": "Project",
+      "commandLineArgs": "receiver"
+    }
+  }
+}
